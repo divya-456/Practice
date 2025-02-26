@@ -4,3 +4,4 @@ print("divya")
 print("change in main")
 a=5
 b=6
+c=10
