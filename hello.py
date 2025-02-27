@@ -4,5 +4,3 @@ print("divya")
 print("change in main")
 a=5
 b=6
-
-print("bugs fixed")
